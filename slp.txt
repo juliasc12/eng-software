@@ -1,0 +1,21 @@
+Sistema de voo
+
+Núcleo Comum (Core):
+O Núcleo Comum é o conjunto de funcionalidades essenciais compartilhadas por todas as versões do sistema de reserva de voos.
+Inclui recursos fundamentais, como pesquisa de voos, gerenciamento de reservas e processamento de pagamentos.
+
+Variantes (Variants):
+As Variantes são versões personalizadas do sistema para atender a necessidades específicas.
+Cada variante pode ser ajustada para um contexto diferente, como uma versão para companhias aéreas, agências de viagens online ou aplicativos móveis.
+
+Configurações (Configurations):
+As Configurações são combinações de recursos do Núcleo Comum e recursos específicos de cada variante.
+Cada configuração define como o sistema funciona e parece para atender às necessidades do cliente ou do contexto.
+
+Reutilização (Reuse):
+A Reutilização envolve o uso eficiente de componentes compartilhados entre as variantes, economizando tempo e esforço.
+Componentes comuns, como processamento de pagamentos e pesquisa de voos, são usados em todas as variantes.
+
+Testes e Documentação:
+Cada variante é testada e documentada para garantir que funcione corretamente e atenda aos requisitos específicos.
+Isso inclui garantir que a interface do usuário e os recursos estejam alinhados com as expectativas.

@@ -1,0 +1,15 @@
+Sistema de Voo
+
+Views (Visões):
+Interface do Usuário (UI): Todas as telas e elementos visuais que os usuários veem e interagem, como páginas de pesquisa de voos, seleção de voos e páginas de pagamento.
+
+Models (Modelos):
+Dados de Voo: Informações sobre voos, como destinos, horários e preços.
+Dados do Usuário: Informações dos usuários, como nomes e endereços de e-mail.
+Reservas: Registros de reservas de voos, associando usuários a voos específicos.
+Pagamentos: Detalhes de pagamento, como números de cartão de crédito e valores.
+Components (Componentes):
+
+Controlador: Gerencia a comunicação entre as Views e Models, processando solicitações dos usuários.
+Lógica de Negócios: Contém componentes que implementam funcionalidades-chave, como pesquisa de voos, gerenciamento de reservas e processamento de pagamentos.
+Banco de Dados: Armazena e recupera dados dos Models.
